@@ -1,3 +1,18 @@
 .nav-link{
 
 }
+#email{
+
+}
+
+#nav-bar{
+  margin-top: 0;
+}
+@media screen and (max-width: 800px) {
+
+}
+#header-img {
+  position: relative;
+  display: inline-block;
+  left: 35%;
+}
